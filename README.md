@@ -23,9 +23,10 @@ This repository contains SQL queries for an in-depth analysis of a painting data
 
 ## Repository Structure:
 
+- **data:** File containg data in csv format.
+- **Loading the data:** Python notebook containg how to load data from pandas to sql.
 - **Queries:** SQL files containing individual queries.
-- **Data Cleaning:** SQL files for cleaning duplicate and invalid records.
-- **Insights:** SQL files providing insights and analysis.
+- **Qestions file:** PDF files containg the list of questions.
 - **README.md:** Documentation explaining the dataset analysis and usage.
 
 Feel free to explore and adapt these queries for your own analysis. If you have any questions or improvements, please don't hesitate to open an issue or contribute!
